@@ -1,0 +1,16 @@
+ php artisan make:model Content
+
+ php artisan make:model Shows
+ php artisan make:model Episode
+
+ php artisan make:model FreeShows
+ php artisan make:model FreeEpisode
+
+ php artisan make:model FreeShows
+ php artisan make:model FreeEpisode
+
+ php artisan make:model PremiumShows
+ php artisan make:model PremiumEpisode
+
+ php artisan make:migration create_contents_table
+
